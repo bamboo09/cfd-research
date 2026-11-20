@@ -1,0 +1,30 @@
+{
+  "archive_sha256": "a193c85f19966f5fd0935dfa92f30d646ea33b06dbf9942b74dcf67365ce6f6e",
+  "archive_member": "bdforces_q2_lv6_dt3",
+  "cycle_sha256": "d1ba2a23bef4c563bad1ecc68ac144040b634aaac95573505e2e32e79a620fac",
+  "rows": 266,
+  "window_s": [
+    8.535625,
+    8.866875
+  ],
+  "published": {
+    "CD_midrange": 3.1884,
+    "CL_midrange": -0.0173,
+    "St": 0.30188
+  },
+  "computed": {
+    "CD_midrange": 3.1885404698500004,
+    "CL_midrange": -0.017336642644999956,
+    "St": 0.30188679245282957
+  },
+  "computed_minus_published": {
+    "CD_midrange": 0.0001404698500002688,
+    "CL_midrange": -3.664264499995615e-05,
+    "St": 6.79245282958485e-06
+  },
+  "time_means": {
+    "CD": 3.1886003810537735,
+    "CL": -0.01782825920667158
+  },
+  "CL_peak_to_peak": 2.00651031231
+}

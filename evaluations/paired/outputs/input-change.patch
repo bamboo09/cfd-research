@@ -1,0 +1,11 @@
+--- a/case/0/U
++++ b/case/0/U
+@@ -3,7 +3,7 @@
+ internalField uniform (0 0 0);
+ boundaryField
+ {
+-    inlet  { type fixedValue; value uniform (0.020 0 0); }
++    inlet  { type fixedValue; value uniform (0.030 0 0); }
+     outlet { type zeroGradient; }
+     lower  { type noSlip; }
+     upper  { type slip; }

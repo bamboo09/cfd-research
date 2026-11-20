@@ -1,0 +1,10 @@
+// Case excerpt for static inspection
+dimensions [0 1 -1 0 0 0 0];
+internalField uniform (0 0 0);
+boundaryField
+{
+    inlet  { type fixedValue; value uniform (0.020 0 0); }
+    outlet { type zeroGradient; }
+    lower  { type noSlip; }
+    upper  { type slip; }
+}

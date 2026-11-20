@@ -1,0 +1,2 @@
+viscosityModel constant;
+#include "fluid.inc"
